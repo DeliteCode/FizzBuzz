@@ -59,3 +59,14 @@ pre[class*="language-"] {
 main > .container {
   padding: 60px 15px 0;
 }
+
+.Fizz {
+  color: darkgreen;
+}
+.Buzz {
+  color: darkblue;
+}
+.fizzBuzz {
+  color: red;
+  font-weight: bold;
+}
